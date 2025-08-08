@@ -36,7 +36,7 @@
   "title": "Scan Cafe",
   "description": "Find Objects with AR",
   "longitude": 73.16664,
-  "latitude": 33.61330,
+  "latitude": 33.61300,
   "population": "N/A",
   "type": "Interact"
 }
@@ -44,6 +44,7 @@
 
 
 ]
+
 
 
 
