@@ -26,11 +26,12 @@
 {
   "title": "Trivia Cafe",
   "description": "Hangout spot with games",
-  "longitude": 73.16610,
-  "latitude": 33.61329,
+  "longitude": 73.16600,
+  "latitude": 33.61328,
   "population": "N/A",
   "type": "Trivia"
 },
+
 {
   "title": "Scan Cafe",
   "description": "Find Objects with AR",
@@ -43,5 +44,6 @@
 
 
 ]
+
 
 
