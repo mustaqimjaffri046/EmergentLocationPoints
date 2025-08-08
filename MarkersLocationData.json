@@ -26,8 +26,8 @@
 {
   "title": "Trivia Cafe",
   "description": "Hangout spot with games",
-  "longitude": 73.16570,
-  "latitude": 33.61330,
+  "longitude": 73.16550,
+  "latitude": 33.61340,
   "population": "N/A",
   "type": "Trivia"
 },
@@ -44,6 +44,7 @@
 
 
 ]
+
 
 
 
