@@ -18,24 +18,24 @@
 {
   "title": "Educational",
   "description": "Hangout spot Education",
-  "longitude": 73.1674,
-  "latitude": 33.61297,
+  "longitude": 73.16687,
+  "latitude": 33.61312,
   "population": "N/A",
   "type": "Educational"
 },
 {
   "title": "Trivia Cafe",
   "description": "Hangout spot with games",
-  "longitude": 73.1656,
-  "latitude": 33.61338,
+  "longitude": 73.16599,
+  "latitude": 33.61328,
   "population": "N/A",
   "type": "Trivia"
 },
 {
   "title": "Scan Cafe",
   "description": "Find Objects with AR",
-  "longitude": 73.1669,
-  "latitude": 33.61341,
+  "longitude": 73.16664,
+  "latitude": 33.61330,
   "population": "N/A",
   "type": "Interact"
 }
@@ -43,6 +43,7 @@
 
 
 ]
+
 
 
 
