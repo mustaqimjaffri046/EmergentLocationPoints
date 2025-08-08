@@ -15,30 +15,32 @@
     "population": "N/A",
     "type": "Showrooms"
   },
-  {
-    "title": "Educational",
-    "description": "Hangout spot Education",
-    "longitude": 73.16787670602346,
-    "latitude": 33.61287161598694,
-    "population": "N/A",
-    "type": "Educational"
-  },
-  {
-    "title": "Trivia Cafe",
-    "description": "Hangout spot with games",
-    "longitude": 73.16275304142601,
-    "latitude": 33.613489190455965,
-    "population": "N/A",
-    "type": "Trivia"
-  },
-  {
-    "title": "Scan Cafe",
-    "description": "Find Objects with AR",
-    "longitude": 73.16535304142601,
-    "latitude": 33.613539190455965,
-    "population": "N/A",
-    "type": "Interact"
-  }
+ {
+  "title": "Educational",
+  "description": "Hangout spot Education",
+  "longitude": 73.1650,
+  "latitude": 33.6132,
+  "population": "N/A",
+  "type": "Educational"
+},
+{
+  "title": "Trivia Cafe",
+  "description": "Hangout spot with games",
+  "longitude": 73.1647,
+  "latitude": 33.6133,
+  "population": "N/A",
+  "type": "Trivia"
+},
+{
+  "title": "Scan Cafe",
+  "description": "Find Objects with AR",
+  "longitude": 73.1649,
+  "latitude": 33.6134,
+  "population": "N/A",
+  "type": "Interact"
+}
+
 
 ]
+
 
