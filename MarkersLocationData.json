@@ -18,8 +18,8 @@
 {
   "title": "Educational",
   "description": "Hangout spot Education",
-  "longitude": 73.16660,
-  "latitude": 33.61300,
+  "longitude": 73.16650,
+  "latitude": 33.61280,
   "population": "N/A",
   "type": "Educational"
 },
@@ -44,6 +44,7 @@
 
 
 ]
+
 
 
 
