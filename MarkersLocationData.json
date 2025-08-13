@@ -1,17 +1,17 @@
 [
   {
-    "title": "Showroom A",
-    "description": "High-end cars in Gulberg Greens",
-    "longitude": 73.16533884658588,
-    "latitude": 33.61336691034826,
+    "title": "Spitzer CDJR Brook Park",
+    "description": "High-end cars in Brrok Park",
+    "longitude": 41.417702, 
+    "latitude": -81.7830311,
     "population": "N/A",
     "type": "Showrooms"
   },
   {
-    "title": "Emergent",
+    "title": "Spitzer CDJR Homesteads",
     "description": "Our Software House",
-    "longitude": 73.05438559712161,
-    "latitude": 33.595522218468865,
+    "longitude": 41.417702, 
+    "latitude": -81.7830311,
     "population": "N/A",
     "type": "Showrooms"
   },
@@ -44,6 +44,7 @@
 
 
 ]
+
 
 
 
