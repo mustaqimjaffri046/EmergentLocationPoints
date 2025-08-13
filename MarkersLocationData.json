@@ -1,33 +1,33 @@
 [
   {
-    "title": "Showroom A",
-    "description": "High-end cars in Gulberg Greens",
-    "longitude": 73.16533884658588,
-    "latitude": 33.61336691034826,
+    "title": "Spitzer CDJR Brook Park",
+    "description": "High-end cars in Brook Park",
+    "longitude": 41.417702,
+    "latitude": -81.7829351,
     "population": "N/A",
     "type": "Showrooms"
   },
   {
-    "title": "Emergent",
-    "description": "Our Software House",
-    "longitude": 73.05438559712161,
-    "latitude": 33.595522218468865,
+    "title": "Spitzer CDJR Homestead",
+    "description": "CDJR home",
+    "longitude": 25.4867216, 
+    "latitude": -80.4578067,
     "population": "N/A",
     "type": "Showrooms"
   },
 {
   "title": "Educational",
   "description": "Hangout spot Education",
-  "longitude": 73.16650,
-  "latitude": 33.61280,
+  "longitude": 41.4176396, 
+  "latitude": -81.7830791,
   "population": "N/A",
   "type": "Educational"
 },
 {
   "title": "Trivia Cafe",
   "description": "Hangout spot with games",
-  "longitude": 73.16550,
-  "latitude": 33.61340,
+  "longitude": 41.417702, 
+  "latitude": -81.7829351,
   "population": "N/A",
   "type": "Trivia"
 },
@@ -35,8 +35,8 @@
 {
   "title": "Scan Cafe",
   "description": "Find Objects with AR",
-  "longitude": 73.16500,
-  "latitude": 33.61250,
+  "longitude": 41.4177644, 
+  "latitude": -81.7830791,
   "population": "N/A",
   "type": "Interact"
 }
@@ -44,6 +44,7 @@
 
 
 ]
+
 
 
 
