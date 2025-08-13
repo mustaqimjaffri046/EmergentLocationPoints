@@ -2,32 +2,32 @@
   {
     "title": "Spitzer CDJR Brook Park",
     "description": "High-end cars in Brrok Park",
-    "longitude": 41.417702, 
-    "latitude": -81.7830311,
+    "longitude": -81.7830311, 
+    "latitude": 41.417702,
     "population": "N/A",
     "type": "Showrooms"
   },
   {
     "title": "Spitzer CDJR Homesteads",
     "description": "Our Software House",
-    "longitude": 41.417702, 
-    "latitude": -81.7830311,
+    "longitude": -81.7830311, 
+    "latitude": 41.417702,
     "population": "N/A",
     "type": "Showrooms"
   },
 {
   "title": "Educational",
   "description": "Hangout spot Education",
-  "longitude": 73.16650,
-  "latitude": 33.61280,
+  "longitude": -81.7829351,
+  "latitude": 41.417702, 
   "population": "N/A",
   "type": "Educational"
 },
 {
   "title": "Trivia Cafe",
   "description": "Hangout spot with games",
-  "longitude": 73.16550,
-  "latitude": 33.61340,
+  "longitude": -81.7830791,
+  "latitude": 41.4177644, 
   "population": "N/A",
   "type": "Trivia"
 },
@@ -35,8 +35,8 @@
 {
   "title": "Scan Cafe",
   "description": "Find Objects with AR",
-  "longitude": 73.16500,
-  "latitude": 33.61250,
+  "longitude": -81.7830791,
+  "latitude": 41.4176396, 
   "population": "N/A",
   "type": "Interact"
 }
@@ -44,6 +44,7 @@
 
 
 ]
+
 
 
 
